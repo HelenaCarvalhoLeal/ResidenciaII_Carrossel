@@ -1,1 +1,1 @@
-![Carrossel](Captura de tela 2025-09-28 140246.png)
+![Carrossel]("Captura de tela 2025-09-28 140246.png")
